@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkOut_BLogic", "WorkOut_B
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkOut.Tests", "WorkOut.Tests\WorkOut.Tests.csproj", "{DE77AD3A-8A86-4A1C-9064-9EEC6416E338}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkOutAPI", "WorkOutAPI\WorkOutAPI.csproj", "{84121CA3-03F2-4C7E-AA83-920418F33ACD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,6 +28,10 @@ Global
 		{DE77AD3A-8A86-4A1C-9064-9EEC6416E338}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE77AD3A-8A86-4A1C-9064-9EEC6416E338}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE77AD3A-8A86-4A1C-9064-9EEC6416E338}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84121CA3-03F2-4C7E-AA83-920418F33ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84121CA3-03F2-4C7E-AA83-920418F33ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84121CA3-03F2-4C7E-AA83-920418F33ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84121CA3-03F2-4C7E-AA83-920418F33ACD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
